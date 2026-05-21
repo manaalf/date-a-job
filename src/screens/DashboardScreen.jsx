@@ -3,6 +3,7 @@ import { BottomNav } from '../components/BottomNav.jsx';
 import { Avatar } from '../components/Avatar.jsx';
 import { IcoRibbon, IcoChev } from '../icons.jsx';
 import { DASHBOARD_MONTHS, APPLICATION_HISTORY } from '../data/jobs.js';
+import { Bug, Wordmark } from '../components/Logo.jsx';
 
 const STATUS_STYLES = {
   Applied:   { bg: 'var(--cream-2)',  fg: 'var(--ink-2)',    dot: '#c5cfd8' },
